@@ -1,0 +1,14 @@
+[16:53:47][PluginLoader][INFO] No plugins found.
+[16:53:47][NATTCore][INFO] NATT CORE initialization done
+Version: 1.7.0 
+Configuration path: test-config.yaml
+Configuration loading mode: FROM HOST
+[16:53:47][NATTCore][INFO] Working directory path: C:\Users\Fidga\Desktop\Files\School\Java\2\telnet-client
+[16:53:47][NATTCore][INFO] Start loading of the configuration file ...
+[16:53:47][LocalHostIO][INFO] Yaml data has been loaded from file (test-config.yaml)
+[16:53:47][NATTCore][INFO] Configuration loading done
+[16:53:47][NATTCore][INFO] Start building test structure according to the configuration ...
+[16:53:47][NATTCore][INFO] Test structure ...
+[16:53:47][NATTCore][INFO] Test structure building done
+[16:53:47][NATTCore][INFO] Start test executing ...
+[16:53:48][TestReportGenerator][INFO] Extenet reports generated. Final report will be saved to file: test_report.html
